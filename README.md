@@ -18,12 +18,12 @@ It contains **250,046 performances** of **5,625 pieces** written by **483 compos
 **PianoCoRe** provides the most diverse composer- and composition-annotated piano MIDI data.
 The metadata includes deduplication flags, MIDI quality labels and precise note-level score-performance alignments. 
 
+<img alt="PianoFlow architecture" src="assets/data-matching.png">
+
 The alignments are refined using a **Refined Alignment for Scores and Performances (RAScoP)** pipeline, integrated into the [Symbolic Music Performance modeling (SyMuPe)](https://github.com/ilya16/SyMuPe) Python package. 
 The pipeline ensures perfect note-by-note score-performance synchronization for expressive performance modeling.
 
 For more details, please refer to the [full article](https://transactions.ismir.net/articles/10.5334/tismir.333).
-
-Usage examples will be added after the update of the SyMuPe package.
 
 ## Dataset Tiers
 
@@ -77,17 +77,17 @@ Acknowledgements and credits are given to the creators of the following source c
 
 If you use this dataset in your research, please cite:
 
-> Borovik, I. (2026). **PianoCoRe: Combined and Refined Piano MIDI Dataset**. Transactions of the International Society for Music Information Retrieval, 9(1), 144-163. DOI: [10.5334/tismir.333](https://doi.org/10.5334/tismir.333)
+> Borovik, I. (2026). **PianoCoRe: Combined and Refined Piano MIDI Dataset**. Transactions of the International Society for Music Information Retrieval, 9(1), 144-163. DOI: [10.5334/tismir.333](https://doi.org/10.5334/tismir.333)
 
 ```bibtex
 @article{borovik2026pianocore,
-  title={{PianoCoRe: Combined and Refined Piano MIDI Dataset}},
-  author={Borovik, Ilya},
-  journal={Transactions of the International Society for Music Information Retrieval},
-  volume={9},
-  number={1},
-  pages={144--163},
-  year={2026},
-  doi={10.5334/tismir.333}
+  title = {{PianoCoRe: Combined and Refined Piano MIDI Dataset}},
+  author = {Borovik, Ilya},
+  year = {2026},
+  journal = {Transactions of the International Society for Music Information Retrieval},
+  volume = {9},
+  number = {1},
+  pages = {144--163},
+  doi = {10.5334/tismir.333}
 }
 ```
