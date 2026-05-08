@@ -6,7 +6,8 @@
 >
 > Author: Ilya Borovik
 >
-> [![TISMIR](https://img.shields.io/badge/TISMIR-Publication-001347)](https://transactions.ismir.net/articles/10.5334/tismir.333)
+> [![TISMIR](https://img.shields.io/badge/TISMIR-Publication-001347)](https://doi.org/10.5334/tismir.333)
+> [![arXiv](https://img.shields.io/badge/arXiv-2605.06627-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2605.06627)
 > [![Zenodo](https://img.shields.io/badge/Zenodo-Dataset-blue)](https://doi.org/10.5281/zenodo.19186016)
 > [![Dataset](https://img.shields.io/badge/HuggingFace-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/SyMuPe/PianoCoRe)
 
